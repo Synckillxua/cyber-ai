@@ -37,7 +37,7 @@ A comprehensive web application that provides AI-powered cybersecurity tools inc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cyber-security-ai.git
+   git clone https://github.com/Synckillxua/cyber-ai.git
    cd cyber-security-ai
    ```
 
@@ -156,8 +156,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 For questions or feedback, please contact:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: ayushroy6889@gmail.com
+- GitHub: [@Synckillxua](https://github.com/Synckillxua)
 
 ---
 
